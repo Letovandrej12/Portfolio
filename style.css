@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background: rgb(48, 130, 48);
+}
+h1 {
+    background: blue;
+    width: 140px;
+    color: purple;
+    border-radius: 10px;
+}
+ul {
+    color: purple;
+}
+img {
+    border: solid 10px blue;
+    border-radius: 10px;
+}
